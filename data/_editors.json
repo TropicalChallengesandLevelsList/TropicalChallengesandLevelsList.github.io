@@ -1,27 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "CuteAxi",
+        "link": "https://www.youtube.com/@CuteAxi"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "DALUCKYCARPET0",
+        "link": "https://www.youtube.com/@daluckycarpet0244"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Zear",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
